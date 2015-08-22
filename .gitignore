@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Don't need html file
+*.html
+
+# Rope
+.ropeproject
+
+#Mac files
+.DS_Store
+
+#Don't upload sensitive info
+config.py
